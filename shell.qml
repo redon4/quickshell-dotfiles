@@ -3,5 +3,5 @@ import "bar"
 import "mediaKeysShow"
 Scope {
     Bar {}
-    VolumeWidget {}
+    MediaKeysWidget {}
 }
